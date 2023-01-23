@@ -8,5 +8,5 @@ Includes:
 * Bash commands
 * PostgreSQL
 * SQL Queries
-* Git/ Version Control
+* Git/Version Control
 
