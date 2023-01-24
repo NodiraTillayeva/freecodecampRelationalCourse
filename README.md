@@ -5,7 +5,7 @@ For these courses, you will use real developer tools and software including VS C
 
 Includes:
 
-* Bash commands
+* Bash commands and scripts
 * PostgreSQL
 * SQL Queries
 * Git/Version Control
